@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Heydaroghlu.com.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Heydaroghlu.com.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\bg1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\comment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\comment.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\gfonts.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gfonts.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\heydaroghlu-poster.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\heydaroghlu-poster.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\me.png",
+      "PackagePath": "staticwebassets\\assets\\images\\me.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\me2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\me2.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\my-works.png",
+      "PackagePath": "staticwebassets\\assets\\images\\my-works.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\project-dt-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-dt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\project1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\project2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\project3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\project4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\project5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\project6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\sign.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sign.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\star-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\star-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\images\\star1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\star1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\js\\jquery-3.6.4.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.4.js"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Heydaroghlu.com\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Heydaroghlu.com.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Heydaroghlu.com.props",
+      "PackagePath": "build\\Heydaroghlu.com.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Heydaroghlu.com.props",
+      "PackagePath": "buildMultiTargeting\\Heydaroghlu.com.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Heydaroghlu.com.props",
+      "PackagePath": "buildTransitive\\Heydaroghlu.com.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

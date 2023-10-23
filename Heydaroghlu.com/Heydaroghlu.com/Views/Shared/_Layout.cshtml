@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from wpriverthemes.com/landing/gridx-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 01 Oct 2023 21:16:27 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heydaroghlu-Web Developer</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/aos.css">
+
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header-area">
+        <div class="container">
+            <div class="gx-row d-flex align-items-center justify-content-between">
+                <a asp-action="index" asp-controller="home" class="logo">
+                    <h3 style="color:white !important">Heydaroghlu</h3>
+                </a>
+
+                <nav class="navbar">
+                    <ul class="menu">
+                        <li class="active"><a asp-action="index" asp-controller="home">Home</a></li>
+						<li><a asp-action="index" asp-controller="about">About</a></li>
+                        <li><a asp-action="index" asp-controller="work">Works</a></li>
+                        <li><a asp-action="index" asp-controller="contact">Contact</a></li>
+                    </ul>
+                    <a asp-action="index" asp-controller="contact" class="theme-btn">Let's talk</a>
+                </nav>
+
+                <a asp-controller="contact" asp-action="index" class="theme-btn">Let's talk</a>
+
+                <div class="show-menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    @RenderBody()
+
+    <!-- Footer -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="footer-content text-center">
+                <a asp-action="index" asp-controller="home" class="logo">
+                    <h3 style="color:white !important">Heydaroghlu</h3>
+                </a>
+                <ul class="footer-menu">
+                    <li class="active"><a asp-action="index" asp-controller="home">Home</a></li>
+                    <li><a asp-action="index" asp-controller="about">About</a></li>
+                    <li><a asp-action="index" asp-controller="work">Works</a></li>
+                    <li><a asp-action="index" asp-controller="contact">Contact</a></li>
+                </ul>
+                <p class="copyright">
+                    &copy; All rights reserved by <span>ODF Group</span>
+                </p>
+            </div>
+        </div>
+    </footer>
+    <script src="~/assets/js/jquery-3.6.4.js"></script>
+    <script src="~/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/aos.js"></script>
+    <script src="~/assets/js/main.js"></script>
+</body>
+
+<!-- Mirrored from wpriverthemes.com/landing/gridx-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 01 Oct 2023 21:16:34 GMT -->
+</html>
